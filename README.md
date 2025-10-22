@@ -1,7 +1,7 @@
 # theos-action
 
 Build Theos projects (iOS tweaks) with GitHub Actions easily.
-
+包含SDK版本：9.3   10.2   10.3   11.4   12.4   13.7   14.5   15.6   16.5
 ## Wait, what's Theos?
 
 [Theos](https://github.com/theos/theos) is a cross-platform building suite for iOS and MacOS. It's mainly used for developing and compiling jailbroken iOS tweaks for the iPhone/iPad.
